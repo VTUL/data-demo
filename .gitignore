@@ -18,14 +18,6 @@
 # Ignore jetty.
 /jetty
 
-# Keep configs out of git.
-config/solr.yml
-config/redis.yml
-config/fedora.yml
-config/database.yml
-config/initializers/devise.rb
-config/initializers/secret_token.rb
-
 # OS and editor files are out.
 *.swp
 /.idea
