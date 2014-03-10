@@ -1,3 +1,5 @@
+ruby "2.1.1"
+#ruby-gemset=data-demo
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
