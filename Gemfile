@@ -60,4 +60,6 @@ group :development, :test do
   gem "rspec-rails"
 end
 
+### App-specific pinned gems
+# Resque 1.25+ enables pipelining, which breaks cluster support.
 gem "resque", "~> 1.24.0"
